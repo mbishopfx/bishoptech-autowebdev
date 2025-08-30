@@ -1,0 +1,12 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+trafilatura>=1.7.0
+lxml>=4.9.3
+tldextract>=5.1.2
+tenacity>=8.3.0
+python-dotenv>=1.0.1
+openai>=1.40.2
+orjson>=3.10.7
+xmltodict>=0.13.0
+
+
